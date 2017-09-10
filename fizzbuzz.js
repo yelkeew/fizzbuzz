@@ -13,7 +13,7 @@ var fizzbuzz = function(num) {
   }
   
   if (output.length > 0) {
-    return output;
+    return outputText;
   }
   
   return num;
